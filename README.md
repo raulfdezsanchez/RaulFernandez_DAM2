@@ -1,3 +1,3 @@
 # RaulFernandez_DAM2
 
-Entrega de practicas del curso DAM2 Ces Juan Pablo Segundo II
+Entrega de practicas del curso DAM2 CES Juan Pablo Segundo II
